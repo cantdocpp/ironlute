@@ -1,0 +1,1 @@
+ALTER TABLE "users" ALTER COLUMN "last_logged_in" SET DEFAULT now();

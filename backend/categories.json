@@ -1,0 +1,332 @@
+[
+  {
+    "name": "art & entertainment",
+    "sub": [
+      "architecture",
+      "art",
+      "audio performances & dramatizations",
+      "entertainment & performing arts",
+      "music",
+      "photography"
+    ]
+  },
+  {
+    "name": "biographies & memoirs",
+    "sub": [
+      "adventurers, explorers & survival",
+      "art & literature",
+      "cultural & regional",
+      "diaries & correspondence",
+      "entertainment & celebrities",
+      "historical",
+      "LGBTQ+",
+      "military & war",
+      "people with disabilities",
+      "politics & activism",
+      "professionals & academics",
+      "religious",
+      "sports",
+      "true crime",
+      "women"
+    ]
+  },
+  {
+    "name": "business & careers",
+    "sub": [
+      "business development & entrepreneurship",
+      "career success",
+      "management & leadership",
+      "marketing & sales",
+      "women in business",
+      "workplace & organizational behavior"
+    ]
+  },
+  {
+    "name": "children's audiobooks",
+    "sub": [
+      "action & adventure",
+      "activities & hobbies",
+      "animals & nature",
+      "art",
+      "biographies",
+      "education & learning",
+      "fairy tales, folk tales & myths",
+      "geography & cultures",
+      "growing up & facts of life",
+      "history",
+      "holidays & celebrations",
+      "humor",
+      "literature & fiction",
+      "music & performing arts",
+      "mystery & suspense",
+      "religions",
+      "science & technology",
+      "science fiction & fantasy",
+      "sports & outdoors",
+      "vehicles & transportation"
+    ]
+  },
+  {
+    "name": "comedy & humor",
+    "sub": ["literature & fiction", "performing arts"]
+  },
+  {
+    "name": "computers & technology",
+    "sub": [
+      "computer science",
+      "content creation & social media",
+      "data science",
+      "history & culture",
+      "programming & software development",
+      "security & encryption"
+    ]
+  },
+  {
+    "name": "education & learning",
+    "sub": [
+      "education",
+      "language learning",
+      "study guides & test preparation",
+      "words, language & grammar",
+      "writing & publishing"
+    ]
+  },
+  {
+    "name": "erotica",
+    "sub": ["literature & fiction", "sex instruction"]
+  },
+  {
+    "name": "health & wellness",
+    "sub": [
+      "addiction & recovery",
+      "aging & longevity",
+      "alternative & complementary medicine",
+      "beauty, grooming & style",
+      "children's health",
+      "dentistry & oral health",
+      "fitness, diet & nutrition",
+      "hygiene & healthy living",
+      "medicine & health care industry",
+      "physical illness & disease",
+      "psychology & mental health",
+      "safety & emergency preparedness",
+      "sexual & reproductive health"
+    ]
+  },
+  {
+    "name": "history",
+    "sub": [
+      "africa",
+      "americas",
+      "ancient",
+      "arctic & antartica",
+      "asia",
+      "australia, new zealand & oceania",
+      "europe",
+      "LGBTQ+",
+      "middle east",
+      "military",
+      "modern",
+      "religious",
+      "russia",
+      "women",
+      "world"
+    ]
+  },
+  {
+    "name": "home & garden",
+    "sub": [
+      "crafts & hobbies",
+      "food & wine",
+      "gardening & horticulture",
+      "house & home",
+      "pets & animal care",
+      "sustainable & green living"
+    ]
+  },
+  {
+    "name": "LGBTQ+",
+    "sub": [
+      "LGBTQ+ studies",
+      "literature & fiction",
+      "mystery, thriller & suspense",
+      "parenting & families",
+      "romance",
+      "science fiction & fantasy"
+    ]
+  },
+  {
+    "name": "literature & fiction",
+    "sub": [
+      "action & adventure",
+      "african american",
+      "ancient, classical & medieval literature",
+      "anthologies & short stories",
+      "classics",
+      "drama & plays",
+      "erotica",
+      "essays",
+      "genre fiction",
+      "historical fiction",
+      "horror",
+      "humor & satire",
+      "literary history & criticism",
+      "memoirs, diaries & correspondence",
+      "poetry",
+      "women's fiction",
+      "world literature"
+    ]
+  },
+  {
+    "name": "money & finance",
+    "sub": [
+      "banks & banking",
+      "corporate & public finance",
+      "e-commerce",
+      "economics",
+      "insurance",
+      "international",
+      "investing & trading",
+      "personal finance",
+      "real estate",
+      "taxation"
+    ]
+  },
+  {
+    "name": "mystery, thriller & suspense",
+    "sub": ["crime fiction", "mystery", "thriller & suspense", "true crime"]
+  },
+  {
+    "name": "politics & social sciences",
+    "sub": [
+      "anthropology",
+      "archaeology",
+      "law",
+      "philosophy",
+      "politics & government",
+      "social sciences",
+      "sociology"
+    ]
+  },
+  {
+    "name": "relationships, parenting & personal development",
+    "sub": ["parenting & families", "personal development", "relationships"]
+  },
+  {
+    "name": "religion & spirituality",
+    "sub": [
+      "agnoticism",
+      "atheism",
+      "buddhism",
+      "christianity",
+      "hinduism",
+      "islam",
+      "judaism",
+      "occult",
+      "other religions, practices & sacred text",
+      "religious studies",
+      "spirituality"
+    ]
+  },
+  {
+    "name": "romance",
+    "sub": [
+      "action & adventure",
+      "anthologies & short stories",
+      "christian",
+      "clean & wholesome",
+      "contemporary",
+      "erotica",
+      "fantasy",
+      "historical",
+      "military",
+      "multicultural",
+      "paranormal",
+      "romantic comedy",
+      "romantic suspense",
+      "royalty",
+      "science fiction",
+      "sports",
+      "westerns"
+    ]
+  },
+  {
+    "name": "science & engineering",
+    "sub": ["engineering", "mathematics", "science"]
+  },
+  {
+    "name": "science fiction & fantasy",
+    "sub": ["fantasy", "science fiction"]
+  },
+  {
+    "name": "sports & outdoors",
+    "sub": [
+      "adventurers, explorers & survival",
+      "baseball & softball",
+      "basketball",
+      "biographies & memoirs",
+      "bodybuilding & strength training",
+      "coaching",
+      "combat sports & self-defense",
+      "cricket",
+      "cycling",
+      "equestrian sports",
+      "extreme sports",
+      "football",
+      "golf",
+      "hockey",
+      "motor sports",
+      "olympics & paralympics",
+      "outdoors & nature",
+      "running & jogging",
+      "soccer",
+      "sociology of sports",
+      "sports history",
+      "sports psychology",
+      "sports writing",
+      "tennis",
+      "track & field",
+      "triathlon",
+      "walking",
+      "water sports",
+      "winter sports",
+      "workouts"
+    ]
+  },
+  {
+    "name": "teen & young adult",
+    "sub": [
+      "arts & entertainment",
+      "biographies",
+      "education & learning",
+      "health, lifestyle & relationships",
+      "history & culture",
+      "literature & fiction",
+      "mystery, thriller & suspense",
+      "politics, society & current events",
+      "religion & spirituality",
+      "romance",
+      "science & technology",
+      "science fiction & fantasy",
+      "sports & outdoors"
+    ]
+  },
+  {
+    "name": "travel & tourism",
+    "sub": [
+      "adventure travel",
+      "africa",
+      "australia, new zealand & oceania",
+      "australia & oceania",
+      "caribbean",
+      "central & south america",
+      "europe",
+      "guided tours",
+      "middle east",
+      "north america",
+      "polar regions",
+      "russia",
+      "travel writing & commentary"
+    ]
+  }
+]
